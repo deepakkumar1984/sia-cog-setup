@@ -20,7 +20,7 @@ then
     cd ..
     cd vis
     make
-    echo "Configuring SIA-COG Server... Configuration Done"
+    echo "Configuring SIA-COG Server... Done"
     echo "Please run command \"sh siacog-server.sh run\""
 fi
 
